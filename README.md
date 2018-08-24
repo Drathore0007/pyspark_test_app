@@ -29,4 +29,4 @@ you need to be in you app directory to build your app with python. this command 
 
 ./spark-submit --jars jar1.jar,jar2.jar --py-files path/to/my/egg.egg driver.py arg1 arg2
 
-spark-submit --py-files /home/dharm/Documents/Dr. Heinz Doofenshmirtz_Evil_corp_Develpoment/GitHub/pyspark_test/dist/testapp-0.0.1-py3.6.egg wordcount.py
+spark-submit --py-files file:///home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/pyspark_test/dist/testapp-0.0.1-py3.6.egg wordcount.py 

@@ -1,0 +1,10 @@
+setup.py
+pyspark_test/__init__.py
+pyspark_test/spark.py
+pyspark_test/testcode.py
+pyspark_test/wordcount.py
+testapp.egg-info/PKG-INFO
+testapp.egg-info/SOURCES.txt
+testapp.egg-info/dependency_links.txt
+testapp.egg-info/not-zip-safe
+testapp.egg-info/top_level.txt
